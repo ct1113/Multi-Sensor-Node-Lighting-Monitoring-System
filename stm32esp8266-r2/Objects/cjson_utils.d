@@ -1,0 +1,11 @@
+.\objects\cjson_utils.o: cJSON-master\cJSON-master\cJSON_Utils.c
+.\objects\cjson_utils.o: D:\c51.keil5\ARM\ARMCC\Bin\..\include\ctype.h
+.\objects\cjson_utils.o: D:\c51.keil5\ARM\ARMCC\Bin\..\include\string.h
+.\objects\cjson_utils.o: D:\c51.keil5\ARM\ARMCC\Bin\..\include\stdlib.h
+.\objects\cjson_utils.o: D:\c51.keil5\ARM\ARMCC\Bin\..\include\stdio.h
+.\objects\cjson_utils.o: D:\c51.keil5\ARM\ARMCC\Bin\..\include\limits.h
+.\objects\cjson_utils.o: D:\c51.keil5\ARM\ARMCC\Bin\..\include\math.h
+.\objects\cjson_utils.o: D:\c51.keil5\ARM\ARMCC\Bin\..\include\float.h
+.\objects\cjson_utils.o: cJSON-master\cJSON-master\cJSON_Utils.h
+.\objects\cjson_utils.o: cJSON-master\cJSON-master\cJSON.h
+.\objects\cjson_utils.o: D:\c51.keil5\ARM\ARMCC\Bin\..\include\stddef.h
